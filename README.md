@@ -15,7 +15,7 @@ I build computers from the gates up. I specialize in the two lowest levels of co
 ---
 
 ## Skills
-## Skills
+
 
 ### Programming Languages
 
