@@ -1,46 +1,33 @@
 <div align="center">
 
-# Geoffrey Johnston 
+# Geoffrey Johnston
 
+### Embedded Systems Engineer | FPGA / Digital Design Engineer
 
-
-**Embedded Systems Engineer | FPGA / Digital Design Engineer**
-
-### Summary
-
-I build computers from the gates up. I specialize in the two lowest levels of computing: designing CPU architectures and writing the raw, bare-metal firmware that controls them. I love bridging the gap between digital logic and low-level software to build faster, more efficient systems.
+I build computers from the gates up. I specialize in the two lowest levels of computing: designing digital logic architectures and writing the raw, bare-metal firmware that controls them.
 
 </div>
 
 ---
 
-## Skills
+### Digital Design & Hardware Description
 
+![Verilog](https://img.shields.io/badge/Verilog-2B5B84?style=for-the-badge&logoColor=white)
 
 ### Programming Languages
 
-| ![C](https://img.shields.io/badge/C-Beginner-00C2FF?style=flat-square&logo=c&logoColor=white&labelColor=0B0F19) | ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-64FFDA?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0B0F19) | ![Python](https://img.shields.io/badge/Python-Intermediate-00C2FF?style=flat-square&logo=python&logoColor=white&labelColor=0B0F19) |  ![ARM Assembly](https://img.shields.io/badge/ARM%20ASM-Beginer-00C2FF?style=flat-square&logo=arm&logoColor=white&labelColor=0B0F19) |
-
-
-### Digital Design & Hardware Description
-
-|![Verilog](https://img.shields.io/badge/Verilog-Intermediate-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19)|
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=1A1A1A)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 
 ### Microcontrollers & SoCs
 
-| ![STM32](https://img.shields.io/badge/STM32-Intermediate-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) | ![Arduino](https://img.shields.io/badge/Arduino-Intermediate-64FFDA?style=flat-square&logo=arduino&logoColor=white&labelColor=0B0F19) |
-
-### Communication Protocols
-
-| *Learning soon...* |
-|---|
-
-### Firmware & Systems
-
-| *Learning soon...* |
-|---|
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### Development Tools
 
-| ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-Beginner-00C2FF?style=flat-square&logo=github&logoColor=white&labelColor=0B0F19) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Beg-64FFDA?style=flat-square&logo=githubactions&logoColor=white&labelColor=0B0F19) |
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
